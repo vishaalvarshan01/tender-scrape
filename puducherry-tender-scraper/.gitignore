@@ -1,0 +1,21 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Scrapy
+.scrapy/
+
+# Crawl output and logs
+output/
+*.json
+*.jsonl
+*.csv
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
